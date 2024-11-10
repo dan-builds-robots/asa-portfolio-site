@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
+  title: "Daniel Ajayi",
   description: "Personal website ",
   // TODO: add your base here; this should be your repo name!
   base: "/asa-portfolio-site/",

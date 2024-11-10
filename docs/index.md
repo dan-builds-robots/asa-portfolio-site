@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "ASA's Portfolio"
-  text: "Checkout the club's portfolio"
-  tagline: "TODO: Tagline"
+  name: "Daniel Ajayi's Portfolio"
+  text: "Computer Science & Engineering @ MIT"
+  tagline: ""
   actions:
     - theme: brand
       text: Template Repository
@@ -21,9 +21,9 @@ features:
   - title: Projects
     details: Some cool projects you worked on!.
     link: /projects
-  - title: Blogs
-    details: Some cool blogs you'll write this semester!
-    link: /blogs
+  - title: Coursework
+    details: A peek at my coursework at MIT
+    link: /coursework
   - title: About Me
     details: You'll implement a small bio about yourself on here!
     link: /aboutme
